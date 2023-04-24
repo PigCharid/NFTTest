@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #285",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/285.png",
+  "dna": "56330ded455bb2fbb56c199ea585b63b33046925",
+  "edition": 285,
+  "date": 1681296029237,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Japan"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus+"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Ice Goddess"
+    },
+    {
+      "trait_type": "gun",
+      "value": "PM25"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

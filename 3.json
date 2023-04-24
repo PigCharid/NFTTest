@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #3",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/3.png",
+  "dna": "d4c3d53580e4e0b79219b1261c62ff69fd7b810e",
+  "edition": 3,
+  "date": 1681295974231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Japan"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus+"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Optimus Prime"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Ice Goddess"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Revolver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1072",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1072.png",
+  "dna": "142f62ed442cb0cce389d0a7b5645f31ecaec9cb",
+  "edition": 1072,
+  "date": 1681296183048,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Japan"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Sky Warrior"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Modern Era"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Revolver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

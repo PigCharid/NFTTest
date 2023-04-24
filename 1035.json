@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1035",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1035.png",
+  "dna": "29cfef2f18b4e8bcba6bce120d061c5c3d43d2c7",
+  "edition": 1035,
+  "date": 1681296175798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Germany"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Sky Warrior"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Modern Era"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Mechanical twin gun"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

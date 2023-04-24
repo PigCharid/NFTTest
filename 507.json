@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #507",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/507.png",
+  "dna": "e57615e07f719f4b6e2a0aab4e4d0888fa4bc8b5",
+  "edition": 507,
+  "date": 1681296072618,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in the United States"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Modern Era"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Mechanical twin gun"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

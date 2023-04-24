@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1325",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1325.png",
+  "dna": "02ae6dcbdb2b7b0098f511fccb6bafe162ad2f73",
+  "edition": 1325,
+  "date": 1681296232640,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in the United States"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Sky Warrior"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Bumblebee"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Modern Era"
+    },
+    {
+      "trait_type": "gun",
+      "value": "PM25"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

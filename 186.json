@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #186",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/186.png",
+  "dna": "70a7cc580bddbde42e94006e18bac0165b0deea7",
+  "edition": 186,
+  "date": 1681296010021,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Britain"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Bumblebee"
+    },
+    {
+      "trait_type": "glass",
+      "value": "White Angel"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Revolver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

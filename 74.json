@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #74",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/74.png",
+  "dna": "55e2381300ee54177796333d4330852a6fe8bba7",
+  "edition": 74,
+  "date": 1681295988141,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Japan"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Optimus Prime"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Modern Era"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Revolver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #537",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/537.png",
+  "dna": "680f7f37edeaf2ef9f36236243541b362219bd87",
+  "edition": 537,
+  "date": 1681296078487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Russia"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Sky Warrior"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Bumblebee"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Mecha whirlwind"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Revolver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1453",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1453.png",
+  "dna": "0d131ade7f7ea3462c5c9478e7deeb9d26b8cc5e",
+  "edition": 1453,
+  "date": 1681296257815,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Japan"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Decepticons"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Mecha whirlwind"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Double Gateline"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

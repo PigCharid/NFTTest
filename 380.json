@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #380",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/380.png",
+  "dna": "c40b5c4e29bf7917d180f5c76e9dccf775fba50d",
+  "edition": 380,
+  "date": 1681296047761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in the United States"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Mecha whirlwind"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Revolver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

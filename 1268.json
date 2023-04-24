@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1268",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1268.png",
+  "dna": "67069d7e62803c9178d8274da8a7478b4c5c06ba",
+  "edition": 1268,
+  "date": 1681296221441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Germany"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Megatron"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Scorching lava"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Double Gateline"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

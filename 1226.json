@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1226",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1226.png",
+  "dna": "262cb6ea7d993df379859f3dadca163a44c4efde",
+  "edition": 1226,
+  "date": 1681296213214,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Britain"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Sky Warrior"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Optimus Prime"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Scorching lava"
+    },
+    {
+      "trait_type": "gun",
+      "value": "PM25"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

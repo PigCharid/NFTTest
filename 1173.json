@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1173",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1173.png",
+  "dna": "11373b8f7f979214f81adf82bf15ac3eac8b3963",
+  "edition": 1173,
+  "date": 1681296202833,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Germany"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Golden Boot"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Bumblebee"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Ice Goddess"
+    },
+    {
+      "trait_type": "gun",
+      "value": "PM25"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

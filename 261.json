@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #261",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/261.png",
+  "dna": "8718153a94e77e353801294f06f6bc61dd311b48",
+  "edition": 261,
+  "date": 1681296024564,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Germany"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Optimus Prime"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Mecha whirlwind"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Shotgun"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

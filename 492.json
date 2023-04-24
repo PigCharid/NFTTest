@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #492",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/492.png",
+  "dna": "779683fec5ff265ec5325d14f14f5b7c1b1cce8f",
+  "edition": 492,
+  "date": 1681296069690,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Japan"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Optimus Prime"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Ice Goddess"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Shotgun"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

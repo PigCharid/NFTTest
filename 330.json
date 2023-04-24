@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #330",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/330.png",
+  "dna": "fad7177333a0b9921662e32706e037a1ad5e1c8b",
+  "edition": 330,
+  "date": 1681296037965,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in the United States"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Optimus Prime"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Scorching lava"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Shotgun"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

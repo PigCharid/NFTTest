@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #307",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/307.png",
+  "dna": "ea9337f3488912dd6941f53cdb9cc24d723ed6f6",
+  "edition": 307,
+  "date": 1681296033508,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in the United States"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Sky Warrior"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Mecha whirlwind"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Shotgun"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

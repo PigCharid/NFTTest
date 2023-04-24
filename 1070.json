@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1070",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1070.png",
+  "dna": "86a35df9f3a5c02e6cea72b2f0ebf665e13054d4",
+  "edition": 1070,
+  "date": 1681296182647,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Britain"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus+"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Scorching lava"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Double Gateline"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

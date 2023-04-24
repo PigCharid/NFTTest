@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1149",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1149.png",
+  "dna": "8cee8d93254ec75716ad5737a5de59492f24cac8",
+  "edition": 1149,
+  "date": 1681296198113,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Germany"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Golden Boot"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Mecha whirlwind"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Double Gateline"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

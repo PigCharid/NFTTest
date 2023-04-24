@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1457",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1457.png",
+  "dna": "90f792cd10eeb1ce9de931ee7f8683e352603e81",
+  "edition": 1457,
+  "date": 1681296258586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Germany"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "White Angel"
+    },
+    {
+      "trait_type": "gun",
+      "value": "M4A1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

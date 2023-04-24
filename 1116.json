@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1116",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1116.png",
+  "dna": "6e7e6a87413454c92c0f400f9b8de8ba75b57b4b",
+  "edition": 1116,
+  "date": 1681296191630,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Japan"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Decepticons"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Modern Era"
+    },
+    {
+      "trait_type": "gun",
+      "value": "M4A1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

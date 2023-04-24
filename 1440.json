@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1440",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1440.png",
+  "dna": "b52c26ad3bf0bcf73a787c10344e2fb44f9821c1",
+  "edition": 1440,
+  "date": 1681296255293,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Britain"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Megatron"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Mecha whirlwind"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Mechanical twin gun"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #286",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/286.png",
+  "dna": "1d227ffcd4a55b1de82c7ee135c5d79576f4782f",
+  "edition": 286,
+  "date": 1681296029430,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Japan"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Optimus Prime"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Modern Era"
+    },
+    {
+      "trait_type": "gun",
+      "value": "PM25"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

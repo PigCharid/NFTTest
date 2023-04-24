@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1482",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1482.png",
+  "dna": "76c0318c0fc698cb0b5274f01490f78688b2d97a",
+  "edition": 1482,
+  "date": 1681296263463,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Russia"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Megatron"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Scorching lava"
+    },
+    {
+      "trait_type": "gun",
+      "value": "PM25"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

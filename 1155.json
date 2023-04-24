@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1155",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1155.png",
+  "dna": "64c118dace4898ba24c1551590dcb3cfdb974b12",
+  "edition": 1155,
+  "date": 1681296199305,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Russia"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Starscream"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Mecha whirlwind"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Mechanical twin gun"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1247",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1247.png",
+  "dna": "575e8af5a0d14e4cf9d463616215e70631a8c7f0",
+  "edition": 1247,
+  "date": 1681296217349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Russia"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha Plus+"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Bumblebee"
+    },
+    {
+      "trait_type": "glass",
+      "value": "White Angel"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Revolver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

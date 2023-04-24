@@ -1,0 +1,35 @@
+{
+  "name": "Transformers #1098",
+  "description": "Transformers NFT GameFi",
+  "image": "ipfs://QmeiHzF3aRYRMNAWmVyeM1cggdjFAW8vAwnbctZ52EL9qm/1098.png",
+  "dna": "17d539954a23e55e7baf89eec8710deb8f77b901",
+  "edition": 1098,
+  "date": 1681296188136,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fighting in Russia"
+    },
+    {
+      "trait_type": "Shoe",
+      "value": "Modern mecha"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Optimus Prime"
+    },
+    {
+      "trait_type": "glass",
+      "value": "Mecha whirlwind"
+    },
+    {
+      "trait_type": "gun",
+      "value": "Revolver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
